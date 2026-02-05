@@ -8,10 +8,10 @@
 
       background:
          linear-gradient(
-             rgba(255,255,255,0.3),
-             rgba(146, 35, 35, 0.3)
+             rgba(255,255,255,0.4),
+             rgba(146, 35, 35, 0.4)
         ),
-      url("JP.jpg");
+      url("img2.jpg");
 
       background-size: cover;
       background-position: center;
@@ -49,3 +49,4 @@
       margin-top: 50px;
       font-size: 19px;
     }
+
